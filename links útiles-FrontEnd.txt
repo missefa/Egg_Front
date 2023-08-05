@@ -1,0 +1,128 @@
+Links útiles
+
+
+Preguntas frecuentes Argentina Programa 4.0-curso programación desde cero:
+https://argentinaprograma.notion.site/argentinaprograma/Preguntas-Frecuentes-PDC-acf853c831574202a8b08ab36b5e8c96
+
+plataforma de acceso para el curso egg:
+lxp.eggcooperation.com
+
+
+Videos Egg youtube:
+https://www.youtube.com/playlist?list=PLgwlfcqa5h3yl_CWAAMCvfElRZ5Xz-Iky
+
+
+
+
+Lista de recursos útiles para el área del frontend:
+
+Google Fonts: https://fonts.google.com/
+
+Calculadora de Especificidad CSS: https://www.codecaptain.io/tools/css-specificity-calculator
+
+Juego de Flexbox (Flexbox Zombies): https://mastery.games/flexboxzombies/chapter/2/level/3
+
+Otro Juego de Flexbox (Flexbox Froggy): https://flexboxfroggy.com/#es
+
+Generador Box Shadow: https://box-shadow.dev/
+
+Juego de CSS Grid (Grid Garden): https://codepip.com/games/grid-garden/
+
+Herramienta para Diseño Responsivo: https://responsively.app/
+
+Recursos y Guías de CSS (CSS-Tricks): https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+Recursos y Documentación de Desarrollo Web (MDN Web Docs): https://developer.mozilla.org/es/
+
+Recursos y Tutoriales de Desarrollo Web (W3Schools): https://www.w3schools.com/howto/howto_css_icon_bar.asp
+
+Crear Favicon: https://www.favicon.cc/
+
+Referencia CSS: https://cssreference.io/
+
+Juego para aprender selectores CSS (Flukeout): https://flukeout-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419&_x_tr_pto=op,sc 
+
+Aplicacion para revisar tu pagina web en resoluciones diferentes:
+responsively.app 
+
+Web para testear velocidad y otros de página web: 
+https://pagespeed.web.dev/
+
+
+
+Ejercicios resueltos:
+https://bassman-55.notion.site/bassman-55/Programaci-n-Web-Desde-Cero-46afc5a2622c4b9f9cae6d57e2011efe
+
+
+
+
+
+
+Documentación extra y guías extra:
+(correr python en html) 
+https://pyscript.net/
+
+
+
+Mi GitHub:
+https://github.com/missefa
+
+
+GitHub del curso:
+https://github.com/EggCooperation
+
+Repositorio para clonar (compañero curso-ejercicio en clase github2):
+https://github.com/Darioezequiel17/Mi-primer-repositorio
+
+Repositorio para clonar2 (ayudante egg):
+https://github.com/RivelliDev/Etapa2Egg.git
+
+Repositorio para clonar3 (compañera curso):
+https://github.com/Brennsel
+
+Repositorio para clonar4 (compañero curso):
+https://github.com/EduMMorenolp/ARG-Programa-4.0-FullStack-Ejercicios
+
+Repositorio para clonar5 (compañero curso):
+https://github.com/gustavocopes/ProgramacionJava.git
+
+
+Repositorio (Front):
+https://github.com/LucasIvan
+
+
+Canales youtube compañeres curso (avanzados):
+Jeremías Rivelli: https://youtube.com/@jereprograma
+Jeremías Rivelli (videos de repaso sin editar): https://www.youtube.com/@JereVOD-uh4us
+Nahiara Alegre (java poo): https://www.youtube.com/watch?v=s-WqZ8GzYKg
+
+
+
+Otros canales youtube:
+https://www.youtube.com/watch?v=mCOUwThJMkw
+https://www.youtube.com/c/soydalto
+
+
+Cómo usar Notion:
+https://youtu.be/NXHEWox4hy8
+
+Atajo para crear estructura html en Visual Studio Code:
+https://www.youtube.com/watch?v=jyuHNYBLkc8
+
+
+
+Otros cursos capacitación:
+
+Programa de especialización Oracle (fullstack) free:
+https://www.oracle.com/ar/education/oracle-next-education/
+
+Cursos programación free:
+https://www.freecodecamp.org/
+https://www.sololearn.com/
+https://open-bootcamp.com/
+
+
+Cursos a pagar cuando se consigue trabajo:
+https://www.microverse.org/es/inicio
+
+https://www.soyhenry.com/
