@@ -1,0 +1,66 @@
+#titulo{
+    color: olive;
+}
+#gravida{
+    color: red;
+}
+.destacado{
+    color: orange;
+}
+#subtitulo{
+    color: blue;
+}
+
+#metus{
+    color: red;
+}
+a{
+    text-decoration: underline;
+}
+/* link sin visitar */
+a:link {
+    color: red;
+    }
+    /* link visitado*/
+    a:visited {
+    color: purple;
+    }
+    /* mouse sobre el link*/
+    a:hover {
+     
+    color: #000;
+    
+    
+    }
+    /* link clickeado */
+    a:active {
+    color: blue;
+    }
+    .aliquan{
+        color: blue;
+
+    }
+    #especial{
+        color: purple;
+    }
+    .naranja{
+        color: orange;}
+
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            margin: 5px;
+            padding: 5px;
+          }
+.verde{
+    color: green;
+}
+.rojo{
+    color: red;
+}
+#adicional{
+    color: rgb(128, 128, 35);
+}
+#link_verde{
+    color: green;
+}

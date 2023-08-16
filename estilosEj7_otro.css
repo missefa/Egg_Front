@@ -1,0 +1,32 @@
+p {
+  font-size: 2rem;
+  font-family: arial, helvetica;
+  font-weight: normal;
+  text-align: left;
+}
+h1 {
+  font-size: 3rem;
+  font-family: verdana, arial;
+  /* text-decoration: underline; */
+  text-align: center;
+  background-color: rgb(72, 103, 131);
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: arial, arial;
+  /* text-decoration: underline; */
+  text-align: center;
+  background-color: rgb(72, 103, 131);
+}
+
+body {
+  background-color: #5a6600;
+  font-family: arial;
+  color: White;
+}
+
+#nombre {
+  color: #0a0001;
+  background-color: #ad99c8;
+}

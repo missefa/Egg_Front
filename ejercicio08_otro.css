@@ -1,0 +1,25 @@
+
+body {
+    background-color: #006600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: White;
+    }
+/* link sin visitar */
+a:link {
+    color: red;
+    }
+    /* link visitado*/
+    a:visited {
+    color: #CCC;
+    }
+    /* mouse sobre el link*/
+    a:hover {
+        background-color: #CC0000;
+    color: #FFF;
+    
+    
+    }
+    /* link clickeado */
+    a:active {
+    color: blue;
+    }
